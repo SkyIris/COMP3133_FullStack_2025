@@ -1,0 +1,13 @@
+country,year,population
+United States,1952,1952
+United States,1957,1957
+United States,1967,1967
+United States,1962,1962
+United States,1977,1977
+United States,1972,1972
+United States,1982,1982
+United States,1997,1997
+United States,2002,2002
+United States,2007,2007
+United States,1987,1987
+United States,1992,1992
