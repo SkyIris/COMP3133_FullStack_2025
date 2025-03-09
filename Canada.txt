@@ -1,0 +1,13 @@
+country,year,population
+Canada,1952,1952
+Canada,1957,1957
+Canada,1962,1962
+Canada,1967,1967
+Canada,1982,1982
+Canada,1977,1977
+Canada,1972,1972
+Canada,1987,1987
+Canada,1992,1992
+Canada,1997,1997
+Canada,2002,2002
+Canada,2007,2007
